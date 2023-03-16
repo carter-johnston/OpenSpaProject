@@ -2,9 +2,7 @@
     import Tab from "$lib/components/Tab.svelte";   
 </script>
 
-
-
-<h1 class=" font-sans font-thin text-3xl text-center">Welcome to SvelteKit</h1>
+<h1 class="font-sans font-thin text-3xl text-center">Welcome to SvelteKit</h1>
 <Tab>
     <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 </Tab>
